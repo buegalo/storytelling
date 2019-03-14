@@ -2,7 +2,7 @@
 
 Poner foto de Wall-T
 
-Nombre del Equipo: :gun::squirrel::bomb: buegalo8 :bomb::squirrel::gun:
+Nombre del Equipo: :gun::squirrel::bomb: buegalo :bomb::squirrel::gun:
 
 Proyecto R1
 
