@@ -13,7 +13,7 @@ Resumen: **Wall-T** trabaja como funcionario en la *Empresa Estatal de Imitacion
 
 - Contexto: **Wall-T** vive en un estado gobernado por un **tirano** que se hace llamar **Amado Líder y Jefe Supremo** en el que desempeña un trabajo monótono e inútil por el que no recibe ningún tipo de incentivo o recompensa. 
 
-![](http://oi67.tinypic.com/33ms9vo.jpg)
+![](http://oi67.tinypic.com/qr0vus.jpg)
 
 - Personaje: **Wall-T**
 
