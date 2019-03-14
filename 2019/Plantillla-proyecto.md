@@ -2,7 +2,7 @@
 
 ## Wall-T
 
-![](http://oi65.tinypic.com/wqvubn.jpg)
+![](http://oi64.tinypic.com/2qnnx4p.jpg)
 
 Nombre del Equipo: :gun::squirrel::bomb: buegalo :bomb::squirrel::gun:
 
