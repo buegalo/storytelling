@@ -7,7 +7,7 @@
 ![](http://multimedialasflores.com.ar/wp-content/uploads/2018/10/001-cohete.png)
 --
 
-Nombre del Equipo: :blue_heart:   :blue_heart:
+Nombre del Equipo: :gun::squirrel::bomb: buegalo8 :bomb::squirrel::gun:
 
 Proyecto 
 
@@ -36,9 +36,9 @@ Resumen:
 
 
 Autores: 
-- :man: 
-- :woman:
-- :woman: 
+- :tulip: Juan Carlos Camacho Hernández
+- :rose: Jaime Penalva Rodríguez
+- :sunflower: Borja Utrilla Escribano
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
