@@ -19,13 +19,9 @@ Resumen: **Wall-T** trabaja como funcionario en la *Empresa Estatal de Imitacion
 
 - Personaje: **Wall-T**
 
-- Historia: Visitas la oficina de la *Empresa Estatal de Imitaciones de Robots de Juguete* para solicitar un permiso. Al acercarte a una de las mesas eres atendido por **Wall-T**. Tú solicitas un formulario pero él te ofrece su *ciberamistad* y consigues ganarte su *ciberconfianza*.
+- Historia: Visitas la oficina de la *Empresa Estatal de Imitaciones de Robots de Juguete* para solicitar un permiso. Al acercarte a una de las mesas eres atendido por **Wall-T**. Tú solicitas un formulario pero él te ofrece su *ciberamistad* y consigues ganarte su *ciberconfianza*. Tendrás que decidir qué es lo mejor para **Wall-T**.
 
-Tendrás que decidir qué es lo mejor para **Wall-T**.
-
-- Conflicto: Wall-T está tan cansado que parece dispuesto a todo. 
-
-Sale a tomar su desayuno y tú podrás acompañarle, ¿hasta dónde querrás llevar? 
+- Conflicto: Wall-T está tan cansado que parece dispuesto a todo. Sale a tomar su desayuno y tú podrás acompañarle, ¿hasta dónde querrás llevar? 
 
 
 
