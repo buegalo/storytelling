@@ -1,6 +1,8 @@
-# Proyecto Hackers
+# Proyecto ROBOTS
 
-Poner foto de Wall-T
+## Wall-T
+
+![](http://oi65.tinypic.com/wqvubn.jpg)
 
 Nombre del Equipo: :gun::squirrel::bomb: buegalo :bomb::squirrel::gun:
 
