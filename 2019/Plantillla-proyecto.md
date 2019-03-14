@@ -25,7 +25,7 @@ Tendrás que decidir qué es lo mejor para **Wall-T**.
 
 - Conflicto: Wall-T está tan cansado que parece dispuesto a todo. 
 
-Sale a tomar su desayuno y tú podrás acompañarle, ¿hasta dónde querrás llevar?
+Sale a tomar su desayuno y tú podrás acompañarle, ¿hasta dónde querrás llevar? 
 
 
 
