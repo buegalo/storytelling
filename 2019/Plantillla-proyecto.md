@@ -18,6 +18,8 @@ Resumen: **Wall-T** trabaja como funcionario en la *Empresa Estatal de Imitacion
 
 - Contexto: **Wall-T** vive en un estado gobernado por un **tirano** que se hace llamar **Amado Líder y Jefe Supremo** en el que desempeña un trabajo monótono e inútil por el que no recibe ningún tipo de incentivo o recompensa. 
 
+![](https://ibb.co/02YZXRt)
+
 - Personaje: **Wall-T**
 
 - Historia: Visitas la oficina de la *Empresa Estatal de Imitaciones de Robots de Juguete* para solicitar un permiso. Al acercarte a una de las mesas eres atendido por **Wall-T**. Tú solicitas un formulario pero él te ofrece su *ciberamistad* y consigues ganarte su *ciberconfianza*.
