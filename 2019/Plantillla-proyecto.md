@@ -11,7 +11,7 @@ Nombre del Equipo: :gun::squirrel::bomb: buegalo8 :bomb::squirrel::gun:
 
 Proyecto R1
 
-Resumen: Wall-T trabaja como funcionario en la Empresa Estatal de Imitaciones de Robots de Juguete, la EEIRJ:scroll:.
+Resumen: Wall-T trabaja como funcionario en la Empresa Estatal de Imitaciones de Robots de Juguete, la EEIRJ:scroll:. /b
 Wall-T sufre un terrible acoso laboral y está tan cansado de su situación que se plantea incluso dejarlo todo atrás.:running:
 
 
