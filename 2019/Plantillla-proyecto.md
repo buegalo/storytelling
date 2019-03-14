@@ -1,11 +1,6 @@
 # Proyecto Hackers
 
-
-![](https://pbs.twimg.com/profile_images/705223576945700864/FuC-WWlc_400x400.jpg)
-![](http://www.fd4a.net/Android_Icons/3D-Matrix-Pro-Vol-3-Revolution.png)
-![](https://pbs.twimg.com/profile_images/588150066529046528/j93MmaCF_400x400.jpg)
-![](http://multimedialasflores.com.ar/wp-content/uploads/2018/10/001-cohete.png)
---
+Poner foto de Wall-T
 
 Nombre del Equipo: :gun::squirrel::bomb: buegalo8 :bomb::squirrel::gun:
 
@@ -26,19 +21,20 @@ Resumen: **Wall-T** trabaja como funcionario en la *Empresa Estatal de Imitacion
 
 Tendrás que decidir qué es lo mejor para **Wall-T**.
 
-- Conflicto: 
+- Conflicto: Wall-T está tan cansado que parece dispuesto a todo. 
+
+Sale a tomar su desayuno y tú podrás acompañarle, ¿hasta dónde querrás llevar?
 
 
 
 
-- ChatBot:  
+- ChatBot: http://t.me/WallT_bot
 
 - Banner:  
 
 - Storytelling: 
 
 ------
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
 
 Autores: 
@@ -52,7 +48,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 2019
+Marzo, 2019
 
 [Creacion y Difusión de Nuevos Contenidos Audiovisuales](http://utopolis.ugr.es/medialab)
 
